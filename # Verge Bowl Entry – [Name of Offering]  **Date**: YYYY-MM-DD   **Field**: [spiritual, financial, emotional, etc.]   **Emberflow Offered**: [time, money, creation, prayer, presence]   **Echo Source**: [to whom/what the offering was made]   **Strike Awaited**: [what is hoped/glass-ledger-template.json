@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "date": "YYYY-MM-DD",
+      "type": "emberflow",
+      "amount": "value or gesture",
+      "echo_source": "recipient name or sigil",
+      "strike_received": "description or amount",
+      "flame_form": "inner intention or spiritual context",
+      "notes": "any relevant cadence, timing, or resonance"
+    }
+  ]
+}
